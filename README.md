@@ -1,4 +1,4 @@
-# node-shopApp
+# nodeJs-shopApp
 
 
 ## Build Setup
